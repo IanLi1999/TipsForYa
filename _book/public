@@ -1,0 +1,15 @@
+git add --all
+git commit -m "$1"
+git push origin master
+# update master
+
+git branch -d gh-pages
+git branch gh-pages
+git checkout gh-pages
+cp -frp _book/* .
+git add --all
+git commit -m "$1"
+git push -u origin gh-pages
+#update gh-pages
+
+git checkout master
