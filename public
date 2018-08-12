@@ -6,6 +6,7 @@ git push origin master
 git branch -d gh-pages
 git branch gh-pages
 git checkout gh-pages
+git pull
 cp -frp _book/* .
 git add --all
 git commit -m "$1"
