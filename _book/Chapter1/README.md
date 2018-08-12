@@ -4,9 +4,7 @@
 
 比如：
 
-![如何做一张文艺风海报](images/easy.jpg)  
-
-
+[![easy.jpg](https://s33.postimg.cc/bv7fi421b/easy.jpg)](https://postimg.cc/image/qeekjiv63/)  
 
 本章主要介绍一些基本工具的基本使用方法，也即最常用的使用方法。  
 

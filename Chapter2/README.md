@@ -6,4 +6,4 @@
 
 附一张我觉得很经典的教科书级不知道出处的海报，几乎所有需要注意的原则都可以以它为示范。  
 
-![教科书级示范](images/masterpiece.jpg)  
+![教科书级示范](https://s33.postimg.cc/8041ffg9r/masterpiece.jpg)  

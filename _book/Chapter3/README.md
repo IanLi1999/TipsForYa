@@ -4,4 +4,4 @@
 
 附一张[Desktop Wallpapers 4 me](http://www.desktopwallpapers4.me/)上拿的高清插画风。
 
-![](images/snow.jpg)
+![](https://s33.postimg.cc/m7tq438e7/snow.jpg)
