@@ -11,7 +11,7 @@ cp -frp _book/* .
 rm -r -f _book
 git add --all
 git commit -m "$1"
-git push -u origin gh-pages
+git push -f -u origin gh-pages
 
 #update gh-pages
 
