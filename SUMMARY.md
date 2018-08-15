@@ -12,5 +12,5 @@
   * [02 字体处理](Chapter2/02.md)  
   * [03 配色](Chapter2/03.md)  
   * [04 素材Hunting](Chapter2/04.md)  
-* [Chapter 3 实用干货](Chapter3/README.md)  
+* [Chapter3 实用干货](Chapter3/README.md)  
   * [01 二维码处理](Chapter3/01.md)  
