@@ -15,3 +15,4 @@
 * [Chapter3 实用干货](Chapter3/README.md)  
   * [01 二维码处理](Chapter3/01.md)  
   * [02 资源汇总](Chapter3/02.md)  
+* [Chapter4 海豹生存指南](Chapter4/README.md) 
